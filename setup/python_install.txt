@@ -1,0 +1,9 @@
+find python version being used
+    windows
+        py --version
+
+    mac
+        python3 --version
+
+
+Interpreted language not compiled
