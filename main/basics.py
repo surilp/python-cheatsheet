@@ -70,3 +70,6 @@ match value:
         result = -1
 
 
+# find out python version at runtime
+import platform
+print(platform.python_version())
