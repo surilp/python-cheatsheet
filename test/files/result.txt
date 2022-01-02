@@ -1,0 +1,11 @@
+Total bytecount: 863
+Files list:
+----------
+test7.py
+test_file.py
+result.txt
+test4.py
+test.py
+test3.py
+test5.py
+test2.py
