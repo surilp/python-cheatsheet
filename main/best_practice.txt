@@ -1,0 +1,12 @@
+import statement all the way at the top
+each import should have their own line
+
+ident code using spaces instead of tabs
+four spaces for each indent level
+
+79 chars per line
+
+separate functions and classes by two blank lines
+within classes, separate methods by one blank line
+
+
