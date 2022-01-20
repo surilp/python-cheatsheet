@@ -16,3 +16,7 @@ print(p2.y)
 p1 = p1._replace(x = 100) # creates new instance
 print(p1)
 
+
+
+Color = collections.namedtuple('Color', ['red', 'green', 'blue'])
+
