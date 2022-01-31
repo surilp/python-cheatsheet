@@ -20,6 +20,7 @@ print(files)
 print(byte_size)
 
 
+
 with open("result.txt", "w+") as file:
     file.write(f"Total bytecount: {byte_size}\n")
     file.write(f"Files list:\n")
